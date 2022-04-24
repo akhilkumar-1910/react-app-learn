@@ -1,6 +1,6 @@
 import {Navbar, Nav, Container, Row} from 'react-bootstrap';
 
-const Navbarcomponent = () => {
+const NavbarComponent = () => {
     return (
         <Navbar bg="primary" expand="lg">
             <Container fluid>
@@ -23,4 +23,4 @@ const Navbarcomponent = () => {
     )
 }
 
-export default Navbarcomponent;
+export default NavbarComponent;
